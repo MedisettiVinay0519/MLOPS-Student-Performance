@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: ml_project_package
+Version: 0.0.1
+Author: Vinay
+Author-email: vinaymedisetti05@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
