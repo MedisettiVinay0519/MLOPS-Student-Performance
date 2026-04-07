@@ -38,7 +38,6 @@ class ModelTrainer:
                 "Decision Tree":DecisionTreeRegressor(),
                 "Gradient Boosting":GradientBoostingRegressor(),
                 "Linear Regression":LinearRegression(),
-                "KNN":KNeighborsRegressor(),
                 "XGBRegressor":XGBRegressor(),
                 "CatBoosting Regressor":CatBoostRegressor(verbose=False),
                 "AdaBoost Regressor":AdaBoostRegressor()
